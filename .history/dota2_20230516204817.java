@@ -35,8 +35,8 @@ public class Dota2 {
                                // queue will be empty.
             int d = qd.poll(); // get the first element from the right queue. This will be the winner. The left
                                // queue will be empty.
-            if (r < d) {
-                qr.offer(r + n);
+            if(r<d){
+                qr.offer(r+n);
             }
         }
 
