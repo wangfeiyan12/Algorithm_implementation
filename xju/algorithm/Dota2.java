@@ -1,4 +1,4 @@
-// 此类用于实现：Dota2参议院
+package xju.algorithm;// 此类用于实现：Dota2参议院
 
 import java.util.ArrayList;
 import java.util.LinkedList;
